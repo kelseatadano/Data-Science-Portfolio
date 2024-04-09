@@ -18,7 +18,8 @@ Intern, UCLA Health
 ### Projects
 - Lung Nodule Detectiom
 - Knowledge Graph Visualization
-- Social Media Analysis
+- [SQL and Tableau Project - Social Media Analysis](SQL%20and%20Tableau%20Project%20-%20Social%20Media%20Analysis)
+
 
   
 
