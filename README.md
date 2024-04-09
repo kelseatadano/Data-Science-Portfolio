@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## About Me 
+### About Me 
 
 Hi and welcome to my data science portfolio! 
 
