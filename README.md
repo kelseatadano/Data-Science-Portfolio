@@ -27,7 +27,7 @@ Intern, UCLA Health
 - Lung Nodule Detectiom
 - Knowledge Graph Visualization
 
-## Regression 
+#### Regression 
 - [Guess that Price - Real Estate Price Prediction Project](./real_estate_price_prediction_project.ipynb)
   
 
