@@ -28,7 +28,7 @@ Intern, UCLA Health
 - Knowledge Graph Visualization
 
 #### Regression 
-- [Guess that Price - Real Estate Price Prediction Project](./real_estate_price_prediction_project.ipynb)
+- [Guess that Price - Real Estate Price Prediction Project](https://kelseatadano.github.io/kelseatadano.github.io/real_estate_price_prediction_project.ipynb)
   
 
   
