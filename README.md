@@ -25,7 +25,6 @@ Intern, UCLA Health
 
 ### Projects
 - [Guess that Price - Real Estate Price Prediction Project](https://kelseatadano.github.io/kelseatadano.github.io/real_estate_price_prediction_project.ipynb)
-- 
   
 
   
