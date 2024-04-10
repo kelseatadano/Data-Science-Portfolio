@@ -24,11 +24,8 @@ Intern, UCLA Health
 - implemented a image detection project, utilizing convultional neural networks to detect the presence of a lung nodule in a input biomedical image/CT scan.
 
 ### Projects
-- Lung Nodule Detection
-- Knowledge Graph Visualization
-
-#### Regression 
 - [Guess that Price - Real Estate Price Prediction Project](https://kelseatadano.github.io/kelseatadano.github.io/real_estate_price_prediction_project.ipynb)
+- 
   
 
   
