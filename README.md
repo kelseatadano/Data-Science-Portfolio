@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Projects Portfolio
 
 ### About Me 
 
