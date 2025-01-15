@@ -1,6 +1,6 @@
 # Data Projects Portfolio
 
-### About Me 
+## About Me 
 
 Hi and welcome to my data science portfolio! 
 
@@ -8,23 +8,12 @@ I am Kelsea, a student in her final year of undergrad, a beach volleyball enthus
 
 In the last quarter of my junior year of undergrad, I decided to start studying data science with a goal of becoming a data scientist. Since then, I have completed courses in machine learning and data science fundamentals, creating a foundation for me to start creating projects of my own. I am excited to learn more about data science throughout this process, and more excited to apply my knowledge toward meaningful and interesting projects. Thank you for taking the time to look over my portfolio, I really appreciate it!  
 
-### Technical Skills 
-- Python
-- C++
-- Scikit-learn
-- Numpy/Pandas
-- HTML, CSS, Javascript
+## Projects
 
-### Education 
-- B.S. Biology and Data Science Engineering | UCLA 
-
-### Work Experience 
-Intern, UCLA Health 
-- created a knowledge graph web interface to visualize the lab's software real-time analysis of biomedical images
-- implemented a image detection project, utilizing convultional neural networks to detect the presence of a lung nodule in a input biomedical image/CT scan.
-
-### Projects
-- [Guess that Price - Real Estate Price Prediction Project](https://kelseatadano.github.io/kelseatadano.github.io/real_estate_price_prediction_project.ipynb)
+### Python Projects 
+- [Real Estate Price Prediction](https://kelseatadano.github.io/kelseatadano.github.io/real_estate_price_prediction_project.ipynb)
+- [Digit Detection](https://kelseatadano.github.io/kelseatadano.github.io/DigitDetection.ipynb)
+- [Airbnb Market Analysis](https://kelseatadano.github.io/kelseatadano.github.io/AirbnbHousing.ipynb)
   
 
   
