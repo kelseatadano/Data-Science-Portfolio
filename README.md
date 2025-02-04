@@ -7,13 +7,14 @@ Welcome to my Data Science Portfolio! Here you'll find projects showcasing my sk
 ### 1.   [🧬Genetic Variant Detection with Python](./Genetic_Variant_Caller_Project.ipynb)
 *Analyzes genetic sequencing data to identify and evaluate the likelihood of specific genetic variations*
 Additional, information on the project [here](./Genetic_Variant_Caller.pdf)
-### 2. [🔢 Digit Detection with Python](./Digit%20Detection.ipynb)
-*Handwritten digit classification implemented using a neural network.*
+### 2. [🏥 Early Stage Diabetes Prediction Model with Python](./Early_Stage_Diabetes_Prediction.ipynb)
+*Compares machine learning models for early stage diabetes prediction*
 ### 3. [🏠 Airbnb Housing Analysis with Python](./AirbnbHousing.ipynb)
 *Exploratory data analysis on Airbnb market trends and a regression model for airbnb price prediction.*
 ### 4. [🏡 Real Estate Price Prediction with Python](./real_estate_price_prediction_project.ipynb)
 *Predicting real estate prices using regression models.*
-
+### 5. [🔢 Digit Detection with Python](./Digit%20Detection.ipynb)
+*Handwritten digit classification implemented using a neural network.*
 ## 📬 Contact
 - **Email:** kelseatadano@gmail.com  
 - **LinkedIn:** [linkedin.com/in/kelsea-tadano](https://linkedin.com/in/kelsea-tadano)  
